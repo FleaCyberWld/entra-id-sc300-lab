@@ -427,3 +427,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+   # Lab secrets and generated output — never commit
+   output/
+   *.secret.csv
+   *passwords*
+   *.log
