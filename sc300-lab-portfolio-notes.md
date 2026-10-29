@@ -176,6 +176,5 @@ Current state only — grows as the lab progresses.
 - Remove the emergency account's consent grant on Microsoft Graph Command Line Tools.
 - Fix the four blank usage locations with `-Task ManageUsers`.
 - Build the CSV bulk-create script (`scripts/02-bulk-users`) with README.
-- Travel Nov 12–20; activate Entra ID P2 trial after Nov 21.
 - After P2: convert `SG-Sales-Dynamic`; recreate `SG-IT-Admins` as role-assignable; PIM; SSPR; Conditional Access excluding the emergency account.
 - Add on-prem AD DS + Entra Cloud Sync. Upgrade Azure to pay-as-you-go (with budget alert) for RBAC and Log Analytics + KQL.
